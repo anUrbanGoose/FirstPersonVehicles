@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.5.0",
+	"VersionName": "1.6.0",
 	"FriendlyName": "FirstPersonVehicles",
 	"Description": "Adds first person camera to vehicles",
 	"Category": "Modding",
@@ -21,6 +21,7 @@
 			"SemVersion": "^3.11.1"
 		}
 	],
-	"SemVersion": "1.5.0",
-	"GameVersion": ">=416835"
+	"SemVersion": "1.6.0",
+	"GameVersion": ">=416835",
+	"RequiredOnRemote": false
 }
